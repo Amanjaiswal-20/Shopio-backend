@@ -1,5 +1,5 @@
 const mongoose = require("mongoose");
 
 module.exports = () => {
-  return mongoose.connect("mongodb+srv://pranav:pranav123@cluster0.gvulk.mongodb.net/E-CommerceWebsite?retryWrites=true&w=majority");
+  return mongoose.connect("mongodb+srv://secretaman11:Aj%4001%4099@cluster0.ekr0ixs.mongodb.net/shopio?retryWrites=true&w=majority");
 };
